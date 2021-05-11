@@ -1,6 +1,6 @@
 token:
   expiration-time: 864000000
-  secret: again_value_changed
+  secret: !@$#asdjfioa$!@#jfia!@#$jsidj!@#
 
 gateway:
   ip: 221.146.180.6
