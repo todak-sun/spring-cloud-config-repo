@@ -1,6 +1,6 @@
 token:
   expiration-time: 864000000
-  secret: gja!@$djfi#$!1kdfl!@#sdkmcvnapwe!$
+  secret: changed_secret
 
 gateway:
   ip: 221.146.180.6
