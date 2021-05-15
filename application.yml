@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: '{cipher}AQAiqiHiL4huwIVcPEAcns0/b/npjjdq86jhsYHz4l79+JOIyhjB95j1yxKv5XWq0koxDfbuPzAugfbALN6mHQclE5mqzeBVJbo/me7pwPlbVb1DaKNK0AlJPSOekanCQZEzkgGMDNRZW1VOKybQoWgV12+IfCez5bgrhjcAhven8gs/pjldkfBsrYvdJCScUhrNrEIilsWhWdyi8eAdzLhgwbVj4rwStupE7DBwiA2Kb9Nwk6uxuMbg+R7ufbHk23opFlL4kozw7/2SqddaOGl+XeY8p3X/weVLAqOxVj4f378kpO4y/hUKVARhppjUEudUOPQ8P7VAQ1JpQ364/Qp3HbHJl2jY3wXxq7T+4xJBcKKEQOOun42nhGnNnZ8P/u0='
+
+token:
+  expiration-time: 864000000
+  secret: '{cipher}AQBOxkJX+UaeOvT4hHtYafjk5K9PJxb5E9XBTr7/p6FtGgFnpt/UlP6uh0q8uOhDl4U/dztHJTBgfbHXTWn7VfOj7+jck0U28Z7WrL7D/TEMB2f8To6GADTmhJrHN5D5BP7kqWRSgSYd+fqbALNFcFHSa5VlTpj8tqiTutR4FBFFj2QHKiOP/HZVZdprR8NsHstNTRrvLIzjg5dfqoFdcLKnfx+TxDdAoWnnhEk7hrPqA+Tk41bsURgskXCIWFWAqWVQZ85WMyk5p5DvdCKjQWIsgDVsn7xluZMH45NrR1oVzIWIS0j+6ei/R5ZVLHsNYvT0y+YhbKqfPmvl+7oygHMBqTHfYAhZoxh2X2D9+ZPUwlT0Y23AlaXU/vCJ37HMIVovDI8Hg7YmiYL74XiaAa/o'

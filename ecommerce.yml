@@ -1,6 +1,2 @@
-token:
-  expiration-time: 864000000
-  secret: my_token_default_defua
-
 gateway:
-  ip: 221.146.180.6
+  ip: 172.28.144.1
