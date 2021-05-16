@@ -6,3 +6,8 @@ spring:
     url: jdbc:h2:mem:testdb
 gateway:
   ip: 172.28.144.1
+
+order-service:
+  url: http://ORDER-SERVICE/%s/orders
+  exception:
+    not-found: User's orders is empty

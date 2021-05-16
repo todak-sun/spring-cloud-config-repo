@@ -1,8 +1,8 @@
 spring:
   datasource:
-    username: sa
-    password: '{cipher}AQB7c6Z0mnbSAJ2w7i+Mt22eRj3m4hB64aXVtji8gb4CqqKyzB6pPu7wvur4KIdvjZQ7I0AVPFHlRC+uT3lJdzq24N3SR0cHHnOKWUu0hJm3ucuDtrMbrXM8rrn8zjfePR4IkgVWC0H212tx3yI9fCkFmBcj4KCgM2sjNZWtUtxevMh+VT4dlwrBOgw5VzlA6zCzKYNY9Wwn7GWTXwg8xmcGCT0lUMlKy7vZa4mJjq98Gus1Qo9uHKLxdhbPlsdxhKz9dQZ00f5TtKL0FCizMAgEy+Yj4BUYhXV4Qw4Y+uLCRPHrNa7LVxyQuaFekfOUxmt3s+LeJZ5VYJsuCsKtCfAAhmqkzS0lWvbUJ2VHhO1mUtDrTXQVAnmFkeA+T49s56k='
-    driver-class-name: org.h2.Driver
-    url: jdbc:h2:mem:testdb
+    username: root
+    password: '{cipher}AQBbIxPHR75W5PgWV8GrrPIr72dkSBxsQAytYlQLDzYCnh5FfNiHJPxrSGp8hzT1wFfbNZzkRD5Ain2H9Mdq93aREmLklB/BwzNiYoik8Blgi7b5jiR9fdbJaKt1+udJPSviVBtHpHShyU24pI4cfl7ToWm4KdR1UrofpPFgol16YskC6okNp7jeSy1Ska8g3gtyY7aOMKwufHp7fAR7j1AgLdezvvQ62+2Afu6nBSmtjZ79zA3/gL44a/yjt4ABGvMxJp1VEA79SwDQ7/tKlm9kw0r4G2BE+iEyqC/kjFbw2c4Qx8Cxtf0Yo3w2Dii6u6LGRXZYJw9BAglcBxt95mra3FPsktFgz/SzBmw9nSqcKW5YAOM8jhTUcuDCALmnYJ0='
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/mydb
 gateway:
   ip: 172.28.144.1

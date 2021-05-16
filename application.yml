@@ -2,7 +2,8 @@ spring:
   rabbitmq:
     host: 127.0.0.1
     port: 5672
-    username: '{cipher}AQAiqiHiL4huwIVcPEAcns0/b/npjjdq86jhsYHz4l79+JOIyhjB95j1yxKv5XWq0koxDfbuPzAugfbALN6mHQclE5mqzeBVJbo/me7pwPlbVb1DaKNK0AlJPSOekanCQZEzkgGMDNRZW1VOKybQoWgV12+IfCez5bgrhjcAhven8gs/pjldkfBsrYvdJCScUhrNrEIilsWhWdyi8eAdzLhgwbVj4rwStupE7DBwiA2Kb9Nwk6uxuMbg+R7ufbHk23opFlL4kozw7/2SqddaOGl+XeY8p3X/weVLAqOxVj4f378kpO4y/hUKVARhppjUEudUOPQ8P7VAQ1JpQ364/Qp3HbHJl2jY3wXxq7T+4xJBcKKEQOOun42nhGnNnZ8P/u0='
+    username: guest
+    password: '{cipher}AQAiqiHiL4huwIVcPEAcns0/b/npjjdq86jhsYHz4l79+JOIyhjB95j1yxKv5XWq0koxDfbuPzAugfbALN6mHQclE5mqzeBVJbo/me7pwPlbVb1DaKNK0AlJPSOekanCQZEzkgGMDNRZW1VOKybQoWgV12+IfCez5bgrhjcAhven8gs/pjldkfBsrYvdJCScUhrNrEIilsWhWdyi8eAdzLhgwbVj4rwStupE7DBwiA2Kb9Nwk6uxuMbg+R7ufbHk23opFlL4kozw7/2SqddaOGl+XeY8p3X/weVLAqOxVj4f378kpO4y/hUKVARhppjUEudUOPQ8P7VAQ1JpQ364/Qp3HbHJl2jY3wXxq7T+4xJBcKKEQOOun42nhGnNnZ8P/u0='
 
 token:
   expiration-time: 864000000
